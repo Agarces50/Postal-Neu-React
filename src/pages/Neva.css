@@ -1,0 +1,17 @@
+.Titol {
+  font-size: 100px;
+  color: rgb(255, 255, 255);
+  margin-top: 8%;
+}
+
+.floc {
+  position: fixed;
+  color: rgb(231, 23, 23);
+  font-size: 35px;
+}
+html {
+  background: url("/public/postal.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
