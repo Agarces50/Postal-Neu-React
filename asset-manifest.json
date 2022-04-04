@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Postal-Nadal_React/static/css/main.1146ca82.css",
+    "main.js": "/Postal-Nadal_React/static/js/main.e22dae0c.js",
+    "static/js/787.a7fd2a01.chunk.js": "/Postal-Nadal_React/static/js/787.a7fd2a01.chunk.js",
+    "index.html": "/Postal-Nadal_React/index.html",
+    "main.1146ca82.css.map": "/Postal-Nadal_React/static/css/main.1146ca82.css.map",
+    "main.e22dae0c.js.map": "/Postal-Nadal_React/static/js/main.e22dae0c.js.map",
+    "787.a7fd2a01.chunk.js.map": "/Postal-Nadal_React/static/js/787.a7fd2a01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1146ca82.css",
+    "static/js/main.e22dae0c.js"
+  ]
+}
