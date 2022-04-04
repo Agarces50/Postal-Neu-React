@@ -90,7 +90,7 @@ function crearFlocs() {
 
 function nouFloc() {
   return { x: 100 * Math.random(), y: -10 };
-} //Posició de cada floc
+} //la posició de cada floc de neu com cau
 
 export default function Nevada() {
   let [flocs, setFlocs] = useState(crearFlocs());

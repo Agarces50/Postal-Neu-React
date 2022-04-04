@@ -1,9 +1,6 @@
-export default function Floc({ x, y, z }) {
+export default function Floc({ x, y }) {
   return (
-    <span
-      style={{ top: `${y}%`, left: `${z}%`, right: `${y}%` }}
-      className="floc"
-    >
+    <span style={{ top: `${y}%`, left: `${x}%` }} className="floc">
       ❆
     </span>
   );

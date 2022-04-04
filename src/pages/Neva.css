@@ -10,7 +10,7 @@
   font-size: 35px;
 }
 html {
-  background: url("/public/postal.jpg") no-repeat center center fixed;
+  background-image: url("/public/postal.jpg") no-repeat center center fixed;
   background-size: cover;
   height: 100%;
   overflow: hidden;
